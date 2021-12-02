@@ -1,4 +1,4 @@
-### Olá, sou o Rui Martins 👋
+### Hi, i'm Rui Martins 👋
 
 - 🔭 I’m currently working on Automated Selenium Testing
 - 🌱 I’m currently learning Java, Javascript and Typescript
